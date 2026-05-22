@@ -1,24 +1,23 @@
 # SQL-Bookstore-Database-Analysis
 
 ## Table of Contents
-1. Project Overview
-2. Problem Statement
-3. Tools and Technologies Used
+1. [Project Overview](#project-overview)
+2. [Problem Statement](#problem-statement)
+3. [Tools and Libraries Used](#tools-and-libraries-used)
 4. Dataset and Database Structure
 5. Methodology
 6. Key Questions Answered
 7. SQL Concepts Applied
 8. Results and Insights
-9. Project Output
+
 10. Skills Demonstrated
-11. Contact Information
+9. [Project Output](#project-output)
+11. [Contact Information](#contact-information)
 
-# Project Overview
-This project focuses on analyzing an online bookstore database using SQL queries within Python. The project was completed as part of my AltSchool Data Analysis second semester program and involved extracting meaningful business insights from a relational database.
-The analysis explored customer behavior, book sales performance, revenue generation, and review patterns by querying interconnected database tables.
-This project demonstrates practical SQL skills, relational database understanding, and analytical thinking applied to a real-world business scenario.
+## Project Overview
+This project focuses on analyzing an online bookstore database using SQL queries within Python. The project was completed as part of my AltSchool Data Analysis second semester program and involved extracting meaningful business insights from a relational database. The analysis explored customer behavior, book sales performance, revenue generation, and review patterns by querying interconnected database tables. This project demonstrates practical SQL skills, relational database understanding, and analytical thinking applied to a real-world business scenario.
 
-# Problem Statement
+## Problem Statement
 As the database administrator for an online bookstore, the task was to write SQL queries to retrieve and analyze important business information stored across multiple tables.
 The objective was to:
 * Analyze book popularity and sales
@@ -29,7 +28,7 @@ The objective was to:
 * Generate meaningful business insights using SQL
 Each analytical question was treated as an individual SQL problem and solved using structured queries.
 
-# Tools and Technologies Used
+# Tools and Libraries Used
 * Python
 * SQL
 * SQLite
@@ -107,13 +106,6 @@ This project involved the practical application of several important SQL concept
 * Highly rated books often aligned with the most frequently purchased titles.
 * SQL joins made it possible to combine data from multiple related tables for deeper business analysis.
 
-# Project Output
-The project output contains:
-* SQL queries written to solve each problem
-* Query results and validations
-* Expected outputs for comparison
-* Structured database analysis using SQL within Python
-
 # Skills Demonstrated
 * SQL Query Writing
 * Relational Database Analysis
@@ -124,8 +116,17 @@ The project output contains:
 * Analytical Problem Solving
 * Data Validation and Reporting
 
-# Contact Information
-### LinkedIn
-* [LinkedIn Profile](https://www.linkedin.com/in/estheraderonke?utm_source=chatgpt.com)
-### Email
-* [aladeloyeesther616@gmail.com](mailto:aladeloyeesther616@gmail.com)
+# Project Output
+The analysis is documented in the PDF report included in this repository:
+
+[View PDF report](./project2_output.pdf)
+
+The project output contains:
+* SQL queries written to solve each problem
+* Query results and validations
+* Expected outputs for comparison
+* Structured database analysis using SQL within Python
+
+## Contact Information
+* LinkedIn: https://www.linkedin.com/in/estheraderonke
+* Email: aladeloyeesther616@gmail.com
